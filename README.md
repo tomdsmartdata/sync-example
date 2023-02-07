@@ -2,6 +2,17 @@
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
+## Connect to Salesforce org by selecting the Deploy to Salesforce button below.
+### Selecting this button will open the GitHub Salesforce Deploy Tool.
+## Installing
+
+Click this button to install the Filter into your org.
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=tomdsmartdata&repo=sync-example&ref=main">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## How Do You Plan to Deploy Your Changes?
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
